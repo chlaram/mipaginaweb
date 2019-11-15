@@ -1,0 +1,150 @@
+#princ{
+	width: 1200px;
+	height: 220px;
+	border: 0px solid #000;
+	margin: center auto;
+}
+
+header{
+	width: 1000px;
+	height: auto;
+	border: 0px solid#000;
+	color: black;
+	float: right;
+}
+
+#seccion1{
+	width: auto;
+	height: auto;overflow: hidden;
+	margin-top: 0px;
+	border: 0px solid #c0c0c0;
+}
+
+.log{
+	width: 300px;
+	height: 180px;
+	border: 0px solid #000;
+	float: left;
+}
+.tit{
+	width: 540px;
+	height: 180px;
+	border: 0px solid #000;
+	float: right;
+}
+.tit h2{
+	float: center;
+	color: red;
+	padding: 60px;
+}
+
+.menu{
+	width: 540px;
+	height: 40px;
+	border: 0px solid #ccc;
+	float: left;
+	margin-top: 5px;
+	background: #006699;
+
+}
+.menu ul{}
+
+.menu ul li{
+	list-style: none;
+	float: left;
+}
+
+.menu ul li a{
+	text-decoration: none;
+	padding: 9px	15px;
+	border: 0px	solid #CCC;
+	color: white;
+}
+.menu ul li a:hover{
+	background: #c0c0c0;
+	color: green;
+	transition: background 1s,  color 1s;
+}
+
+#obje {
+	width: 1000px;
+	height: auto; overflow: hidden;
+	margin-top: 100px;
+	border: 0px solid #c0c0c0;
+}
+.gen {
+	width: auto;
+	height: auto;overflow: hidden;
+	margin-top: 10px;
+	border: 0px solid #c0c0c0;
+	text-align: center;
+	color: blue;
+}
+ .parrafo1 h3 {
+ 	color: green;
+ 	text-align: center;
+}
+
+.parrafo1 p {
+	color: red;
+	text-align: left;
+}
+
+.parrafo1 h2 {
+ 	color: green;
+ 	text-align: center;
+ #mas{
+	width: 1000px;
+	height: auto;overflow: hidden;
+	border: 0px;
+	float: left;
+	padding: 1px;
+}
+
+#videos{
+	width: auto;
+	height: auto;overflow: hidden;
+	margin-top: 10px;
+	border: 1px solid;
+}
+
+#vi1{
+	width: 440px;
+	height: 300px;
+	border: 0px solid #000;
+	float: left;
+}
+
+#vi2{
+	width: 440px;
+	height: 300px;
+	border: 0px solid #000;
+	float: right;
+}
+
+#derechos {
+	width: 1000px;
+	height: auto;
+	border: 1px solid#000;
+	margin-top: 1px:
+	color: black;
+	
+}
+
+footer{
+	width: 900px;
+	height: 50px;
+	
+}
+
+#footer h4{
+	width: 500px;
+	text-align: right;	
+}
+
+
+
+
+
+
+

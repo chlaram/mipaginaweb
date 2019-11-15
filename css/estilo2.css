@@ -1,0 +1,105 @@
+#princ{
+	width: 1000px;
+	height: 250px;
+	border: 0px solid #000;
+	margin: auto;
+}
+
+header{
+	width: 1000px;
+	height: 590px;
+	border: 0px solid#000;
+	color: black;
+}
+
+#seccion1{
+	width: auto;
+	height: auto;overflow: hidden;
+	margin-top: 0px;
+	border: 0px solid #c0c0c0;
+}
+.log{
+	width: 300px;
+	height: 180px;
+	border: 0px solid #000;
+	float: left;
+}
+.tit{
+	width: 540px;
+	height: 180px;
+	border: 0px solid #000;
+	float: right;
+}
+.tit h2{
+	float: center;
+	color: red;
+	padding: 60px;
+}
+
+.menu{
+	width: 350px;
+	height: 40px;
+	border: 1px solid #ccc;
+	float: left;
+	margin-top: 5px;
+	background: #006699;
+
+}
+.menu ul{}
+
+.menu ul li{
+	list-style: none;
+	float: left;
+}
+
+.menu ul li a{
+	text-decoration: none;
+	padding: 9px	15px;
+	border: 0px	solid #CCC;
+	color: white;
+}
+.menu ul li a:hover{
+	background: #c0c0c0;
+	color: green;
+	transition: background 1s,  color 1s;
+}
+
+#sec2{
+	width: auto;
+	height: auto;overflow: hidden;
+	margin-top: 10px;
+	border: 0px solid #c0c0c0;
+}
+.obj{
+	float: right;
+}
+#vid{
+	width: auto;
+	height: auto;overflow: hidden;
+	margin-top: 10px;
+	border: 0px solid #c0c0c0;
+}
+
+#vide1{
+	width: 440px;
+	height: 300px;
+	border: 0px solid #000;
+	float: left;
+}
+
+#vide2{
+	width: 440px;
+	height: 300px;
+	border: 0px solid #000;
+	float: right;
+}
+
+footer{
+	width: 900px;
+	height: 50px;
+	text-align: center;
+}
+
+#footer p{
+	width: 500px;
+}

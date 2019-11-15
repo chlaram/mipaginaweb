@@ -1,0 +1,172 @@
+#principal{
+	width: 1000px;
+	height: auto; overflow: hidden;
+	border: 0px solid #000;
+	margin: auto;
+}
+header{
+	width: 1000px;
+	height: auto;
+	border: 0px solid#000;
+	margin:auto;
+	font-family: auto;
+}
+
+#logo{
+	width: 350px;
+	height: 150px;
+	border: 0px solid #000;
+	float: left;
+}
+
+.menu{
+	width: 350px;
+	height: 40px;
+	border: 1px solid #ccc;
+	float: left;
+	margin-top: 5px;
+	background: #006699;
+
+}
+.menu ul{}
+
+.menu ul li{
+	list-style: none;
+	float: left;
+}
+
+.menu ul li a{
+	text-decoration: none;
+	padding: 9px	15px;
+	border: 0px	solid #CCC;
+	color: white;
+}
+.menu ul li a:hover{
+	background: #c0c0c0;
+	color: green;
+	transition: background 1s,  color 1s;
+}
+
+
+#categorias{
+	width: 1000px;
+	height: auto; overflow: hidden;
+	border: 0px solid;
+	margin-top: 50px;
+}
+
+.uno{
+	width: 250px;
+	height: 200px; 	
+	border: 0px	solid;
+	float: left;
+	padding: 0px;
+	text-align: center;
+	text-decoration: none;
+	list-style: none;
+	float: left;
+}
+
+.uno img p a {
+	text-decoration: none;
+	list-style: none;
+}
+
+
+.dos{
+	width: 480px;
+	height: auto; overflow: hidden; 	
+	border: 0px	solid;
+	float: left;
+	padding: 0px;
+	text-align: center;
+	text-decoration: none;
+	list-style: none;
+	float: center;
+}
+
+.tres{
+	width: 250px;
+	height: auto; 	
+	border: 0px	solid;
+	float: left;
+	padding: 9px;
+	text-align: center;
+	text-decoration: none;
+	list-style: none;
+	float: right;
+}
+#mas{
+	width: 1000px;
+	height: auto;overflow: hidden;
+	border: 0px;
+	float: left;
+	padding: 1px;
+}
+
+#videos{
+	width: 1000px;
+	height: auto; overflow: hidden;
+	border: 0px solid;
+	margin-top: 50px;
+}
+
+#vi1{
+	width: 225px;
+	height: 310px; 	
+	border: 0px	solid;
+	margin-top: 0px;
+	float: left;
+	padding: 1px;
+	text-align: center;
+	text-decoration: none;
+	list-style: none;
+	float: left;
+}
+
+#vi2{
+	width: 225px;
+	height: 310px; 	
+	border: 0px	solid;
+	margin-top: 0px;
+	float: left;
+	padding: 1px;
+	text-align: center;
+	text-decoration: none;
+	list-style: none;
+	float: left;
+}
+#vi3{
+	width: 225px;
+	height: 310px; 	
+	border: 0px	solid;
+	margin-top: 0px;
+	float: left;
+	padding: 1px;
+	text-align: center;
+	text-decoration: none;
+	list-style: none;
+	float: left;
+}
+#vi4{
+	width: 225px;
+	height: 310px; 	
+	border: 0px	solid;
+	margin-top: 0px;
+	float: left;
+	padding: 1px;
+	text-align: center;
+	text-decoration: none;
+	list-style: none;
+	float: left;
+}
+
+footer{
+	width: 1000px;
+	height: 50px;
+	text-align: center;
+}
+
+#footer p{
+	width: 500px;
+}

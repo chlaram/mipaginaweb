@@ -1,0 +1,108 @@
+#princ{
+	width: 1000px;
+	height: 250px;
+	border: 0px solid #000;
+	margin: auto;
+	color: blue;
+}
+
+header{
+	width: 1000px;
+	height: 590px;
+	border: 0px solid#000;
+	color: black;
+}
+
+#seccion1{
+	width: auto;
+	height: auto;overflow: hidden;
+	margin-top: 0px;
+	border: 0px solid #c0c0c0;
+
+}
+.log{
+	width: 300px;
+	height: 180px;
+	border: 0px solid #000;
+	float: left;
+}
+.tit{
+	width: 540px;
+	height: 180px;
+	border: 0px solid #000;
+	float: right;
+}
+.tit h2{
+	float: center;
+	color: red;
+	padding: 60px;
+}
+
+.menu{
+	width: 250px;
+	height: 40px;
+	border: 1px solid #ccc;
+	float: left;
+	margin-top: 5px;
+	background: #006699;
+
+}
+.menu ul{}
+
+.menu ul li{
+	list-style: none;
+	float: center;
+}
+
+.menu ul li a{
+	text-decoration: none;
+	padding: 9px	15px;
+	border: 0px	solid #CCC;
+	color: white;
+}
+.menu ul li a:hover{
+	background: #c0c0c0;
+	color: green;
+	transition: background 1s,  color 1s;
+}
+#foto{
+	width: 1000px;
+	height: auto; overflow: hidden;
+	border: 0px solid;
+	margin-top: 50px;
+}
+.ft {
+	width: 510px;
+	height: 410px; 	
+	border: 0px	solid;
+	margin-top: 1px;
+	float: left;
+	padding: 5px;
+	text-align: center;
+	text-decoration: none;
+	list-style: none;
+	float: left;
+}
+
+.ref{
+	width: 410px;
+	height: 410px; 	
+	border: 0px	solid;
+	margin-top: 1px;
+	float: left;
+	padding: 5px;
+	text-align: left;
+	text-decoration: none;
+	list-style: none;
+	float: left;
+}
+
+footer{
+	width: 900px;
+	height: 50px;
+	text-align: center;
+}
+
+#footer p{
+	width: 500px;
+}
